@@ -9,9 +9,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4561350303700290}
-  - component: {fileID: 114012914643860340}
+  - component: {fileID: 114103883745807518}
   m_Layer: 0
-  m_Name: room_arrows
+  m_Name: zoe_room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32,7 +32,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &114012914643860340
+--- !u!114 &114103883745807518
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -41,16 +41,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1896788399910994}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b81f6e749cbf0432fbe2f49e4f2b27d3, type: 3}
+  m_Script: {fileID: 11500000, guid: 294f5a475b8f7481a8f1bb007b2cacda, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  roomAuthor: AP Thomson (Arrow Rooms!)
-  designedRoomFile: {fileID: 0}
-  localTilePrefabs: []
+  roomAuthor: Zoe
+  designedRoomFile: {fileID: 4900000, guid: a275190e8a510f847b3ae5f227995926, type: 3}
+  localTilePrefabs:
+  - {fileID: 2826458162318131672, guid: 8cb7f512191a17844a99ce5a90309962, type: 3}
+  - {fileID: 757525476074836024, guid: b8e185b7930899741b9bdad0ef46be88, type: 3}
   roomGridX: 0
   roomGridY: 0
-  extraWallsToRemove: 0
-  faceLeftArrowTrapPrefab: {fileID: 1376035031062694, guid: 78f95855a030f41dd8db1eb469d7aee2,
-    type: 3}
-  faceRightArrowTrapPrefab: {fileID: 1215785095147150, guid: 2b0738d5b2f5d4d9982b845d0d9dc73c,
-    type: 3}
+  roomChoices: []

@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+//using System.Diagnostics;
 using UnityEngine;
 
 // The level generator is where the magic happens. 
@@ -57,6 +58,8 @@ public class LevelGenerator : MonoBehaviour {
         string netID = getIDBag();
 
         string roomPath = string.Format("{0}/room", netID);
+
+		Debug.Log(string.Format("Loading room from path: {0}", roomPath));
         return Resources.Load<GameObject>(roomPath);
     }
 

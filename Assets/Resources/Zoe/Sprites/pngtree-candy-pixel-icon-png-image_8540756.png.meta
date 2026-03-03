@@ -1,0 +1,3289 @@
+fileFormatVersion: 2
+guid: 1c0e67fb3b405234693081dcb51821e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1370514263121714465
+    second: pngtree-candy-pixel-icon-png-image_8540756_0
+  - first:
+      213: 3516153001237352306
+    second: pngtree-candy-pixel-icon-png-image_8540756_1
+  - first:
+      213: 2846172550664543671
+    second: pngtree-candy-pixel-icon-png-image_8540756_2
+  - first:
+      213: -4321464032998379268
+    second: pngtree-candy-pixel-icon-png-image_8540756_3
+  - first:
+      213: -4523011242084320256
+    second: pngtree-candy-pixel-icon-png-image_8540756_4
+  - first:
+      213: -7211323025691006544
+    second: pngtree-candy-pixel-icon-png-image_8540756_5
+  - first:
+      213: -2222782809000996154
+    second: pngtree-candy-pixel-icon-png-image_8540756_6
+  - first:
+      213: 7302914057894917226
+    second: pngtree-candy-pixel-icon-png-image_8540756_7
+  - first:
+      213: -8622499811601873377
+    second: pngtree-candy-pixel-icon-png-image_8540756_8
+  - first:
+      213: 9098849950297755181
+    second: pngtree-candy-pixel-icon-png-image_8540756_9
+  - first:
+      213: -1177879338844154181
+    second: pngtree-candy-pixel-icon-png-image_8540756_10
+  - first:
+      213: 589543591860008478
+    second: pngtree-candy-pixel-icon-png-image_8540756_11
+  - first:
+      213: -464588034075198414
+    second: pngtree-candy-pixel-icon-png-image_8540756_12
+  - first:
+      213: 9064454254928255651
+    second: pngtree-candy-pixel-icon-png-image_8540756_13
+  - first:
+      213: -1340442999662422130
+    second: pngtree-candy-pixel-icon-png-image_8540756_14
+  - first:
+      213: 7035390438468959247
+    second: pngtree-candy-pixel-icon-png-image_8540756_15
+  - first:
+      213: 4602116505072049372
+    second: pngtree-candy-pixel-icon-png-image_8540756_16
+  - first:
+      213: -6325304774533466206
+    second: pngtree-candy-pixel-icon-png-image_8540756_17
+  - first:
+      213: -8362116514014410569
+    second: pngtree-candy-pixel-icon-png-image_8540756_18
+  - first:
+      213: -2049971233890790294
+    second: pngtree-candy-pixel-icon-png-image_8540756_19
+  - first:
+      213: -4131447114241960485
+    second: pngtree-candy-pixel-icon-png-image_8540756_20
+  - first:
+      213: 4592760535336593869
+    second: pngtree-candy-pixel-icon-png-image_8540756_21
+  - first:
+      213: -6815688607362375481
+    second: pngtree-candy-pixel-icon-png-image_8540756_22
+  - first:
+      213: -6476173129694783174
+    second: pngtree-candy-pixel-icon-png-image_8540756_23
+  - first:
+      213: 8456172739934660897
+    second: pngtree-candy-pixel-icon-png-image_8540756_24
+  - first:
+      213: -1143501411859098508
+    second: pngtree-candy-pixel-icon-png-image_8540756_25
+  - first:
+      213: 1445979026534578649
+    second: pngtree-candy-pixel-icon-png-image_8540756_26
+  - first:
+      213: -5069466276477392009
+    second: pngtree-candy-pixel-icon-png-image_8540756_27
+  - first:
+      213: 2002316022283727869
+    second: pngtree-candy-pixel-icon-png-image_8540756_28
+  - first:
+      213: 3876011877959957905
+    second: pngtree-candy-pixel-icon-png-image_8540756_29
+  - first:
+      213: 319914630052783027
+    second: pngtree-candy-pixel-icon-png-image_8540756_30
+  - first:
+      213: 1539655491792728533
+    second: pngtree-candy-pixel-icon-png-image_8540756_31
+  - first:
+      213: -2133009291884818929
+    second: pngtree-candy-pixel-icon-png-image_8540756_32
+  - first:
+      213: 6099887187660167053
+    second: pngtree-candy-pixel-icon-png-image_8540756_33
+  - first:
+      213: 1418965098062338463
+    second: pngtree-candy-pixel-icon-png-image_8540756_34
+  - first:
+      213: 6011026942643098640
+    second: pngtree-candy-pixel-icon-png-image_8540756_35
+  - first:
+      213: -2095525941838762081
+    second: pngtree-candy-pixel-icon-png-image_8540756_36
+  - first:
+      213: -5361239003108853641
+    second: pngtree-candy-pixel-icon-png-image_8540756_37
+  - first:
+      213: -2414222816063396455
+    second: pngtree-candy-pixel-icon-png-image_8540756_38
+  - first:
+      213: 8173527585425590184
+    second: pngtree-candy-pixel-icon-png-image_8540756_39
+  - first:
+      213: -2361257194572664889
+    second: pngtree-candy-pixel-icon-png-image_8540756_40
+  - first:
+      213: 4967960890642280545
+    second: pngtree-candy-pixel-icon-png-image_8540756_41
+  - first:
+      213: 7462319437326944435
+    second: pngtree-candy-pixel-icon-png-image_8540756_42
+  - first:
+      213: -8456500258993820937
+    second: pngtree-candy-pixel-icon-png-image_8540756_43
+  - first:
+      213: 2524457864983359292
+    second: pngtree-candy-pixel-icon-png-image_8540756_44
+  - first:
+      213: 5993253438164103808
+    second: pngtree-candy-pixel-icon-png-image_8540756_45
+  - first:
+      213: 5756953522855776290
+    second: pngtree-candy-pixel-icon-png-image_8540756_46
+  - first:
+      213: -1020408496788994668
+    second: pngtree-candy-pixel-icon-png-image_8540756_47
+  - first:
+      213: -1247791551345040310
+    second: pngtree-candy-pixel-icon-png-image_8540756_48
+  - first:
+      213: 2784859590090748414
+    second: pngtree-candy-pixel-icon-png-image_8540756_49
+  - first:
+      213: -6480789948843746359
+    second: pngtree-candy-pixel-icon-png-image_8540756_50
+  - first:
+      213: -6887905727188820496
+    second: pngtree-candy-pixel-icon-png-image_8540756_51
+  - first:
+      213: 4945463860754599418
+    second: pngtree-candy-pixel-icon-png-image_8540756_52
+  - first:
+      213: 7191571382509676167
+    second: pngtree-candy-pixel-icon-png-image_8540756_53
+  - first:
+      213: 9016793745239220110
+    second: pngtree-candy-pixel-icon-png-image_8540756_54
+  - first:
+      213: 805220468576708639
+    second: pngtree-candy-pixel-icon-png-image_8540756_55
+  - first:
+      213: -8159766178440945054
+    second: pngtree-candy-pixel-icon-png-image_8540756_56
+  - first:
+      213: 3520787143157820592
+    second: pngtree-candy-pixel-icon-png-image_8540756_57
+  - first:
+      213: -3606872349118816942
+    second: pngtree-candy-pixel-icon-png-image_8540756_58
+  - first:
+      213: -1668341268317699551
+    second: pngtree-candy-pixel-icon-png-image_8540756_59
+  - first:
+      213: 5479589402329702774
+    second: pngtree-candy-pixel-icon-png-image_8540756_60
+  - first:
+      213: -4466370570999638192
+    second: pngtree-candy-pixel-icon-png-image_8540756_61
+  - first:
+      213: 7564200712825792150
+    second: pngtree-candy-pixel-icon-png-image_8540756_62
+  - first:
+      213: -611254372727465484
+    second: pngtree-candy-pixel-icon-png-image_8540756_63
+  - first:
+      213: -8711174589605698780
+    second: pngtree-candy-pixel-icon-png-image_8540756_64
+  - first:
+      213: -6185357597620649469
+    second: pngtree-candy-pixel-icon-png-image_8540756_65
+  - first:
+      213: 6393098516297440905
+    second: pngtree-candy-pixel-icon-png-image_8540756_66
+  - first:
+      213: 1361719324141013191
+    second: pngtree-candy-pixel-icon-png-image_8540756_67
+  - first:
+      213: -4413417030789684678
+    second: pngtree-candy-pixel-icon-png-image_8540756_68
+  - first:
+      213: -1050762965645041696
+    second: pngtree-candy-pixel-icon-png-image_8540756_69
+  - first:
+      213: 4321080144225869421
+    second: pngtree-candy-pixel-icon-png-image_8540756_70
+  - first:
+      213: -4666687753088868795
+    second: pngtree-candy-pixel-icon-png-image_8540756_71
+  - first:
+      213: -5450455070458202976
+    second: pngtree-candy-pixel-icon-png-image_8540756_72
+  - first:
+      213: 3704370481522934076
+    second: pngtree-candy-pixel-icon-png-image_8540756_73
+  - first:
+      213: -1549244312086419591
+    second: pngtree-candy-pixel-icon-png-image_8540756_74
+  - first:
+      213: -4816202408691726349
+    second: pngtree-candy-pixel-icon-png-image_8540756_75
+  - first:
+      213: 8576635984856098143
+    second: pngtree-candy-pixel-icon-png-image_8540756_76
+  - first:
+      213: -3280135721705959917
+    second: pngtree-candy-pixel-icon-png-image_8540756_77
+  - first:
+      213: 2471023109274333718
+    second: pngtree-candy-pixel-icon-png-image_8540756_78
+  - first:
+      213: -8740667328521681419
+    second: pngtree-candy-pixel-icon-png-image_8540756_79
+  - first:
+      213: 7814790848210394677
+    second: pngtree-candy-pixel-icon-png-image_8540756_80
+  - first:
+      213: -4144579144014130744
+    second: pngtree-candy-pixel-icon-png-image_8540756_81
+  - first:
+      213: -8911603448195108506
+    second: pngtree-candy-pixel-icon-png-image_8540756_82
+  - first:
+      213: 6215294390384291022
+    second: pngtree-candy-pixel-icon-png-image_8540756_83
+  - first:
+      213: -5571990975087256446
+    second: pngtree-candy-pixel-icon-png-image_8540756_84
+  - first:
+      213: -6735805808227835021
+    second: pngtree-candy-pixel-icon-png-image_8540756_85
+  - first:
+      213: -2170356614181348906
+    second: pngtree-candy-pixel-icon-png-image_8540756_86
+  - first:
+      213: 1978197509028302180
+    second: pngtree-candy-pixel-icon-png-image_8540756_87
+  - first:
+      213: -8804986610274758730
+    second: pngtree-candy-pixel-icon-png-image_8540756_88
+  - first:
+      213: 5431411167276901067
+    second: pngtree-candy-pixel-icon-png-image_8540756_89
+  - first:
+      213: -1548164118721095752
+    second: pngtree-candy-pixel-icon-png-image_8540756_90
+  - first:
+      213: -1682763218502491820
+    second: pngtree-candy-pixel-icon-png-image_8540756_91
+  - first:
+      213: -4453277179773123881
+    second: pngtree-candy-pixel-icon-png-image_8540756_92
+  - first:
+      213: -7271440067761610894
+    second: pngtree-candy-pixel-icon-png-image_8540756_93
+  - first:
+      213: 5986662238361961135
+    second: pngtree-candy-pixel-icon-png-image_8540756_94
+  - first:
+      213: -2610836872048388732
+    second: pngtree-candy-pixel-icon-png-image_8540756_95
+  - first:
+      213: -4071154642996825725
+    second: pngtree-candy-pixel-icon-png-image_8540756_96
+  - first:
+      213: 2223070556768869711
+    second: pngtree-candy-pixel-icon-png-image_8540756_97
+  - first:
+      213: 7338718208627911774
+    second: pngtree-candy-pixel-icon-png-image_8540756_98
+  - first:
+      213: -6204810505933405980
+    second: pngtree-candy-pixel-icon-png-image_8540756_99
+  - first:
+      213: -4266608750528658883
+    second: pngtree-candy-pixel-icon-png-image_8540756_100
+  - first:
+      213: -2421444406708687291
+    second: pngtree-candy-pixel-icon-png-image_8540756_101
+  - first:
+      213: -5976040838887150594
+    second: pngtree-candy-pixel-icon-png-image_8540756_102
+  - first:
+      213: 2021671953093491847
+    second: pngtree-candy-pixel-icon-png-image_8540756_103
+  - first:
+      213: 4553449965198858373
+    second: pngtree-candy-pixel-icon-png-image_8540756_104
+  - first:
+      213: 8913839061556627474
+    second: pngtree-candy-pixel-icon-png-image_8540756_105
+  - first:
+      213: 2768291704027803781
+    second: pngtree-candy-pixel-icon-png-image_8540756_106
+  - first:
+      213: -7879289326219913412
+    second: pngtree-candy-pixel-icon-png-image_8540756_107
+  - first:
+      213: 7289853874621794799
+    second: pngtree-candy-pixel-icon-png-image_8540756_108
+  - first:
+      213: -232642794931385812
+    second: pngtree-candy-pixel-icon-png-image_8540756_109
+  - first:
+      213: -8719060560022391133
+    second: pngtree-candy-pixel-icon-png-image_8540756_110
+  - first:
+      213: -5198251817606872603
+    second: pngtree-candy-pixel-icon-png-image_8540756_111
+  - first:
+      213: 5027338266685306159
+    second: pngtree-candy-pixel-icon-png-image_8540756_112
+  - first:
+      213: 9128384006126826510
+    second: pngtree-candy-pixel-icon-png-image_8540756_113
+  - first:
+      213: -5445432980271187300
+    second: pngtree-candy-pixel-icon-png-image_8540756_114
+  - first:
+      213: 2166689099329595931
+    second: pngtree-candy-pixel-icon-png-image_8540756_115
+  - first:
+      213: 8063594464670391964
+    second: pngtree-candy-pixel-icon-png-image_8540756_116
+  - first:
+      213: -2107683656866183515
+    second: pngtree-candy-pixel-icon-png-image_8540756_117
+  - first:
+      213: 3650902647371004330
+    second: pngtree-candy-pixel-icon-png-image_8540756_118
+  - first:
+      213: 2065044293544049279
+    second: pngtree-candy-pixel-icon-png-image_8540756_119
+  - first:
+      213: -1133096401917006532
+    second: pngtree-candy-pixel-icon-png-image_8540756_120
+  - first:
+      213: -4159549529575696044
+    second: pngtree-candy-pixel-icon-png-image_8540756_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1153
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dd9f4067b050310800000000000000
+      internalID: 1370514263121714465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1186
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f0da67682ebc030800000000000000
+      internalID: 3516153001237352306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1153
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdd3dbead2af7720800000000000000
+      internalID: 2846172550664543671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1186
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0318bab531704c0800000000000000
+      internalID: -4321464032998379268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1154
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c37704d390b31c0800000000000000
+      internalID: -4523011242084320256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_5
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1187
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9a7155aeb3ceb90800000000000000
+      internalID: -7211323025691006544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1154
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c296a0efc61721e0800000000000000
+      internalID: -2222782809000996154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1187
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a647806a4a9295560800000000000000
+      internalID: 7302914057894917226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_8
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1154
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f160995fa1ab65880800000000000000
+      internalID: -8622499811601873377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1138
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e041072db954e70800000000000000
+      internalID: 9098849950297755181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1138
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb61ce36bf457afe0800000000000000
+      internalID: -1177879338844154181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1139
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e167c64f5ca7e2800800000000000000
+      internalID: 589543591860008478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_12
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1139
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cfc0ef4a37d89f0800000000000000
+      internalID: -464588034075198414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_13
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1156
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aad6cb8e196bcd70800000000000000
+      internalID: 9064454254928255651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1102
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87567b913ac56de0800000000000000
+      internalID: -1340442999662422130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1103
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c3f15245ab2a160800000000000000
+      internalID: 7035390438468959247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1103
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc18cb04900edf30800000000000000
+      internalID: 4602116505072049372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_17
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1103
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7b9d902d00838a0800000000000000
+      internalID: -6325304774533466206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_18
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1126
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b84ebbb55bc3fb80800000000000000
+      internalID: -8362116514014410569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_19
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1109
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a649b24260a0d83e0800000000000000
+      internalID: -2049971233890790294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1089
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd59b4b2db62aa6c0800000000000000
+      internalID: -4131447114241960485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1011
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9ab279f53ccbf30800000000000000
+      internalID: 4592760535336593869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 101
+        width: 941
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c02d7a925fc961a0800000000000000
+      internalID: -6815688607362375481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1089
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39dc9cc9d20026a0800000000000000
+      internalID: -6476173129694783174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_24
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1090
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a523ed4c5a5570800000000000000
+      internalID: 8456172739934660897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_25
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1012
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4741bf146877120f0800000000000000
+      internalID: -1143501411859098508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_26
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1091
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d932457346211410800000000000000
+      internalID: 1445979026534578649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_27
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1069
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b2ebdd743a5a9b0800000000000000
+      internalID: -5069466276477392009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_28
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1103
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df37b4440d7a9cb10800000000000000
+      internalID: 2002316022283727869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1053
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d7ffa544c5ac530800000000000000
+      internalID: 3876011877959957905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1068
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b32fba39a0907400800000000000000
+      internalID: 319914630052783027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_31
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1046
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1f8c82384fd5510800000000000000
+      internalID: 1539655491792728533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_32
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 998
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e0996a9570662e0800000000000000
+      internalID: -2133009291884818929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_33
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1015
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87d07e141727a450800000000000000
+      internalID: 6099887187660167053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_34
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 962
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99deaa1d3d21b310800000000000000
+      internalID: 1418965098062338463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_35
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 984
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0145b8318257b6350800000000000000
+      internalID: 6011026942643098640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fa51b22423be2e0800000000000000
+      internalID: -2095525941838762081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 855
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7783abf188d0995b0800000000000000
+      internalID: -5361239003108853641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 872
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995e5efc325fe7ed0800000000000000
+      internalID: -2414222816063396455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_39
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 872
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a70623a8043e6170800000000000000
+      internalID: 8173527585425590184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_40
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 820
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf292e87112b3fd0800000000000000
+      internalID: -2361257194572664889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_41
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 826
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16034c0db1eb1f440800000000000000
+      internalID: 4967960890642280545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_42
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 851
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b88d5ebdfb7f8760800000000000000
+      internalID: 7462319437326944435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 807
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faaca3a1d974aa80800000000000000
+      internalID: -8456500258993820937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_44
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 809
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f26c49d0da80320800000000000000
+      internalID: 2524457864983359292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_45
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 821
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082f8a69f305c2350800000000000000
+      internalID: 5993253438164103808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 785
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22090463abec4ef40800000000000000
+      internalID: 5756953522855776290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 730
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4950a17e0e7c6d1f0800000000000000
+      internalID: -1020408496788994668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_48
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 763
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a446854f134feaee0800000000000000
+      internalID: -1247791551345040310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_49
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 787
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1f2b8da0fc5a620800000000000000
+      internalID: 2784859590090748414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1f33d0eb9f06a0800000000000000
+      internalID: -6480789948843746359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_51
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 666
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd188c1c3e3960a0800000000000000
+      internalID: -6887905727188820496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_52
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 715
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd4fcddd21d1a440800000000000000
+      internalID: 4945463860754599418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786aa5fd1189dc360800000000000000
+      internalID: 7191571382509676167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_54
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 634
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f92f56326122d70800000000000000
+      internalID: 9016793745239220110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_55
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 588
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18636bffb7bc2b00800000000000000
+      internalID: 805220468576708639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 536
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262e7cb94efa2ce80800000000000000
+      internalID: -8159766178440945054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 572
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc2fa5b0495cd030800000000000000
+      internalID: 3520787143157820592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_58
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 543
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d189065b0d1fdc0800000000000000
+      internalID: -3606872349118816942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 523
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1228cc9a47cd8d8e0800000000000000
+      internalID: -1668341268317699551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 445
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6716bd087896b0c40800000000000000
+      internalID: 5479589402329702774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_61
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 503
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057de4821a34402c0800000000000000
+      internalID: -4466370570999638192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_62
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 537
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696ecb1b87079f860800000000000000
+      internalID: 7564200712825792150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9dc26f2636487f0800000000000000
+      internalID: -611254372727465484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 502
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423a4225dd0bb1780800000000000000
+      internalID: -8711174589605698780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_65
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 480
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302ce015902392aa0800000000000000
+      internalID: -6185357597620649469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_66
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 432
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e5cfd7a39d8b850800000000000000
+      internalID: 6393098516297440905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_67
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 449
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8c537b28cc5e210800000000000000
+      internalID: 1361719324141013191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_68
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 396
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a322f12089460c2c0800000000000000
+      internalID: -4413417030789684678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_69
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 418
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef579166a0fa61f0800000000000000
+      internalID: -1050762965645041696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e93924f7f87fb30800000000000000
+      internalID: 4321080144225869421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_71
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 289
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ed877b6389c3fb0800000000000000
+      internalID: -4666687753088868795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_72
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 306
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4bc1dbdf71c54b0800000000000000
+      internalID: -5450455070458202976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_73
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 306
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c310e9b8351986330800000000000000
+      internalID: 3704370481522934076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 254
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9776bc3a18aff7ae0800000000000000
+      internalID: -1549244312086419591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_75
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 260
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f78c873d69692db0800000000000000
+      internalID: -4816202408691726349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_76
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 285
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f552e2dbcf4560770800000000000000
+      internalID: 8576635984856098143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_77
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 241
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e85a4a0fd9a72d0800000000000000
+      internalID: -3280135721705959917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_78
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 243
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612f3140d66da4220800000000000000
+      internalID: 2471023109274333718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_79
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 255
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f54a9fef59e2b680800000000000000
+      internalID: -8740667328521681419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_80
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 219
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53edd853fd6b37c60800000000000000
+      internalID: 7814790848210394677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_81
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c19b893a3f7b76c0800000000000000
+      internalID: -4144579144014130744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_82
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 197
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6613f2b21ef935480800000000000000
+      internalID: -8911603448195108506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_83
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 221
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc65596159214650800000000000000
+      internalID: 6215294390384291022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cdd36dabf4ca2b0800000000000000
+      internalID: -5571990975087256446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_85
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 100
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37321942e4c9582a0800000000000000
+      internalID: -6735805808227835021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_86
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 149
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d91dcf882851e1e0800000000000000
+      internalID: -2170356614181348906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_87
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 79
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dc13d4728f37b10800000000000000
+      internalID: 1978197509028302180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_88
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 100
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf808a24576ec580800000000000000
+      internalID: -8804986610274758730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_89
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 68
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc221a60eaf306b40800000000000000
+      internalID: 5431411167276901067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_90
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 78
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b79f91cfe0d38ae0800000000000000
+      internalID: -1548164118721095752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_91
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 100
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451e018b4cf95a8e0800000000000000
+      internalID: -1682763218502491820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_92
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 68
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2054ddff7c232c0800000000000000
+      internalID: -4453277179773123881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_93
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 79
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fd68bb8c7a61b90800000000000000
+      internalID: -7271440067761610894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_94
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 68
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa24fcb4695e41350800000000000000
+      internalID: 5986662238361961135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_95
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 79
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485501b92b174cbd0800000000000000
+      internalID: -2610836872048388732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_96
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 68
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381fd7e0c6a5087c0800000000000000
+      internalID: -4071154642996825725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d96de94eee9de10800000000000000
+      internalID: 2223070556768869711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_98
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 54
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c25fb145d58d560800000000000000
+      internalID: 7338718208627911774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_99
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 68
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e04a3728b514e9a0800000000000000
+      internalID: -6204810505933405980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_100
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 21
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d328a2562f5f9c4c0800000000000000
+      internalID: -4266608750528658883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_101
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 54
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ea5c6342d456ed0800000000000000
+      internalID: -2421444406708687291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_102
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 68
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb67eaf486d01da0800000000000000
+      internalID: -5976040838887150594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_103
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 22
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cf1881eeb6e0c10800000000000000
+      internalID: 2021671953093491847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_104
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 55
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588513e3e9a113f30800000000000000
+      internalID: 4553449965198858373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_105
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2188511266154bb70800000000000000
+      internalID: 8913839061556627474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_106
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 22
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580fc3543a2fa6620800000000000000
+      internalID: 2768291704027803781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_107
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 55
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c379224aa1427a290800000000000000
+      internalID: -7879289326219913412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_108
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe94655c973ca2560800000000000000
+      internalID: 7289853874621794799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_109
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 22
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a8f805c9c75ccf0800000000000000
+      internalID: -232642794931385812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a63fb0cd9caff680800000000000000
+      internalID: -8719060560022391133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_111
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 6
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1838e63891cd7b0800000000000000
+      internalID: -5198251817606872603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_112
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 7
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25718f7481b4c540800000000000000
+      internalID: 5027338266685306159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_113
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 7
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04fb8aa3e88eae70800000000000000
+      internalID: 9128384006126826510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_114
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 24
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a3dba3e8fed64b0800000000000000
+      internalID: -5445432980271187300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_115
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a60489140a11e10800000000000000
+      internalID: 2166689099329595931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_116
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e1c7f5174a7ef60800000000000000
+      internalID: 8063594464670391964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_117
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6489d81e000c2e0800000000000000
+      internalID: -2107683656866183515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_118
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9f41e4d9c9aa230800000000000000
+      internalID: 3650902647371004330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_119
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7af32a08d288ac10800000000000000
+      internalID: 2065044293544049279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_120
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3da67b63de6640f0800000000000000
+      internalID: -1133096401917006532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-candy-pixel-icon-png-image_8540756_121
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4595ff7bdbf4646c0800000000000000
+      internalID: -4159549529575696044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-candy-pixel-icon-png-image_8540756_0: 1370514263121714465
+      pngtree-candy-pixel-icon-png-image_8540756_1: 3516153001237352306
+      pngtree-candy-pixel-icon-png-image_8540756_10: -1177879338844154181
+      pngtree-candy-pixel-icon-png-image_8540756_100: -4266608750528658883
+      pngtree-candy-pixel-icon-png-image_8540756_101: -2421444406708687291
+      pngtree-candy-pixel-icon-png-image_8540756_102: -5976040838887150594
+      pngtree-candy-pixel-icon-png-image_8540756_103: 2021671953093491847
+      pngtree-candy-pixel-icon-png-image_8540756_104: 4553449965198858373
+      pngtree-candy-pixel-icon-png-image_8540756_105: 8913839061556627474
+      pngtree-candy-pixel-icon-png-image_8540756_106: 2768291704027803781
+      pngtree-candy-pixel-icon-png-image_8540756_107: -7879289326219913412
+      pngtree-candy-pixel-icon-png-image_8540756_108: 7289853874621794799
+      pngtree-candy-pixel-icon-png-image_8540756_109: -232642794931385812
+      pngtree-candy-pixel-icon-png-image_8540756_11: 589543591860008478
+      pngtree-candy-pixel-icon-png-image_8540756_110: -8719060560022391133
+      pngtree-candy-pixel-icon-png-image_8540756_111: -5198251817606872603
+      pngtree-candy-pixel-icon-png-image_8540756_112: 5027338266685306159
+      pngtree-candy-pixel-icon-png-image_8540756_113: 9128384006126826510
+      pngtree-candy-pixel-icon-png-image_8540756_114: -5445432980271187300
+      pngtree-candy-pixel-icon-png-image_8540756_115: 2166689099329595931
+      pngtree-candy-pixel-icon-png-image_8540756_116: 8063594464670391964
+      pngtree-candy-pixel-icon-png-image_8540756_117: -2107683656866183515
+      pngtree-candy-pixel-icon-png-image_8540756_118: 3650902647371004330
+      pngtree-candy-pixel-icon-png-image_8540756_119: 2065044293544049279
+      pngtree-candy-pixel-icon-png-image_8540756_12: -464588034075198414
+      pngtree-candy-pixel-icon-png-image_8540756_120: -1133096401917006532
+      pngtree-candy-pixel-icon-png-image_8540756_121: -4159549529575696044
+      pngtree-candy-pixel-icon-png-image_8540756_13: 9064454254928255651
+      pngtree-candy-pixel-icon-png-image_8540756_14: -1340442999662422130
+      pngtree-candy-pixel-icon-png-image_8540756_15: 7035390438468959247
+      pngtree-candy-pixel-icon-png-image_8540756_16: 4602116505072049372
+      pngtree-candy-pixel-icon-png-image_8540756_17: -6325304774533466206
+      pngtree-candy-pixel-icon-png-image_8540756_18: -8362116514014410569
+      pngtree-candy-pixel-icon-png-image_8540756_19: -2049971233890790294
+      pngtree-candy-pixel-icon-png-image_8540756_2: 2846172550664543671
+      pngtree-candy-pixel-icon-png-image_8540756_20: -4131447114241960485
+      pngtree-candy-pixel-icon-png-image_8540756_21: 4592760535336593869
+      pngtree-candy-pixel-icon-png-image_8540756_22: -6815688607362375481
+      pngtree-candy-pixel-icon-png-image_8540756_23: -6476173129694783174
+      pngtree-candy-pixel-icon-png-image_8540756_24: 8456172739934660897
+      pngtree-candy-pixel-icon-png-image_8540756_25: -1143501411859098508
+      pngtree-candy-pixel-icon-png-image_8540756_26: 1445979026534578649
+      pngtree-candy-pixel-icon-png-image_8540756_27: -5069466276477392009
+      pngtree-candy-pixel-icon-png-image_8540756_28: 2002316022283727869
+      pngtree-candy-pixel-icon-png-image_8540756_29: 3876011877959957905
+      pngtree-candy-pixel-icon-png-image_8540756_3: -4321464032998379268
+      pngtree-candy-pixel-icon-png-image_8540756_30: 319914630052783027
+      pngtree-candy-pixel-icon-png-image_8540756_31: 1539655491792728533
+      pngtree-candy-pixel-icon-png-image_8540756_32: -2133009291884818929
+      pngtree-candy-pixel-icon-png-image_8540756_33: 6099887187660167053
+      pngtree-candy-pixel-icon-png-image_8540756_34: 1418965098062338463
+      pngtree-candy-pixel-icon-png-image_8540756_35: 6011026942643098640
+      pngtree-candy-pixel-icon-png-image_8540756_36: -2095525941838762081
+      pngtree-candy-pixel-icon-png-image_8540756_37: -5361239003108853641
+      pngtree-candy-pixel-icon-png-image_8540756_38: -2414222816063396455
+      pngtree-candy-pixel-icon-png-image_8540756_39: 8173527585425590184
+      pngtree-candy-pixel-icon-png-image_8540756_4: -4523011242084320256
+      pngtree-candy-pixel-icon-png-image_8540756_40: -2361257194572664889
+      pngtree-candy-pixel-icon-png-image_8540756_41: 4967960890642280545
+      pngtree-candy-pixel-icon-png-image_8540756_42: 7462319437326944435
+      pngtree-candy-pixel-icon-png-image_8540756_43: -8456500258993820937
+      pngtree-candy-pixel-icon-png-image_8540756_44: 2524457864983359292
+      pngtree-candy-pixel-icon-png-image_8540756_45: 5993253438164103808
+      pngtree-candy-pixel-icon-png-image_8540756_46: 5756953522855776290
+      pngtree-candy-pixel-icon-png-image_8540756_47: -1020408496788994668
+      pngtree-candy-pixel-icon-png-image_8540756_48: -1247791551345040310
+      pngtree-candy-pixel-icon-png-image_8540756_49: 2784859590090748414
+      pngtree-candy-pixel-icon-png-image_8540756_5: -7211323025691006544
+      pngtree-candy-pixel-icon-png-image_8540756_50: -6480789948843746359
+      pngtree-candy-pixel-icon-png-image_8540756_51: -6887905727188820496
+      pngtree-candy-pixel-icon-png-image_8540756_52: 4945463860754599418
+      pngtree-candy-pixel-icon-png-image_8540756_53: 7191571382509676167
+      pngtree-candy-pixel-icon-png-image_8540756_54: 9016793745239220110
+      pngtree-candy-pixel-icon-png-image_8540756_55: 805220468576708639
+      pngtree-candy-pixel-icon-png-image_8540756_56: -8159766178440945054
+      pngtree-candy-pixel-icon-png-image_8540756_57: 3520787143157820592
+      pngtree-candy-pixel-icon-png-image_8540756_58: -3606872349118816942
+      pngtree-candy-pixel-icon-png-image_8540756_59: -1668341268317699551
+      pngtree-candy-pixel-icon-png-image_8540756_6: -2222782809000996154
+      pngtree-candy-pixel-icon-png-image_8540756_60: 5479589402329702774
+      pngtree-candy-pixel-icon-png-image_8540756_61: -4466370570999638192
+      pngtree-candy-pixel-icon-png-image_8540756_62: 7564200712825792150
+      pngtree-candy-pixel-icon-png-image_8540756_63: -611254372727465484
+      pngtree-candy-pixel-icon-png-image_8540756_64: -8711174589605698780
+      pngtree-candy-pixel-icon-png-image_8540756_65: -6185357597620649469
+      pngtree-candy-pixel-icon-png-image_8540756_66: 6393098516297440905
+      pngtree-candy-pixel-icon-png-image_8540756_67: 1361719324141013191
+      pngtree-candy-pixel-icon-png-image_8540756_68: -4413417030789684678
+      pngtree-candy-pixel-icon-png-image_8540756_69: -1050762965645041696
+      pngtree-candy-pixel-icon-png-image_8540756_7: 7302914057894917226
+      pngtree-candy-pixel-icon-png-image_8540756_70: 4321080144225869421
+      pngtree-candy-pixel-icon-png-image_8540756_71: -4666687753088868795
+      pngtree-candy-pixel-icon-png-image_8540756_72: -5450455070458202976
+      pngtree-candy-pixel-icon-png-image_8540756_73: 3704370481522934076
+      pngtree-candy-pixel-icon-png-image_8540756_74: -1549244312086419591
+      pngtree-candy-pixel-icon-png-image_8540756_75: -4816202408691726349
+      pngtree-candy-pixel-icon-png-image_8540756_76: 8576635984856098143
+      pngtree-candy-pixel-icon-png-image_8540756_77: -3280135721705959917
+      pngtree-candy-pixel-icon-png-image_8540756_78: 2471023109274333718
+      pngtree-candy-pixel-icon-png-image_8540756_79: -8740667328521681419
+      pngtree-candy-pixel-icon-png-image_8540756_8: -8622499811601873377
+      pngtree-candy-pixel-icon-png-image_8540756_80: 7814790848210394677
+      pngtree-candy-pixel-icon-png-image_8540756_81: -4144579144014130744
+      pngtree-candy-pixel-icon-png-image_8540756_82: -8911603448195108506
+      pngtree-candy-pixel-icon-png-image_8540756_83: 6215294390384291022
+      pngtree-candy-pixel-icon-png-image_8540756_84: -5571990975087256446
+      pngtree-candy-pixel-icon-png-image_8540756_85: -6735805808227835021
+      pngtree-candy-pixel-icon-png-image_8540756_86: -2170356614181348906
+      pngtree-candy-pixel-icon-png-image_8540756_87: 1978197509028302180
+      pngtree-candy-pixel-icon-png-image_8540756_88: -8804986610274758730
+      pngtree-candy-pixel-icon-png-image_8540756_89: 5431411167276901067
+      pngtree-candy-pixel-icon-png-image_8540756_9: 9098849950297755181
+      pngtree-candy-pixel-icon-png-image_8540756_90: -1548164118721095752
+      pngtree-candy-pixel-icon-png-image_8540756_91: -1682763218502491820
+      pngtree-candy-pixel-icon-png-image_8540756_92: -4453277179773123881
+      pngtree-candy-pixel-icon-png-image_8540756_93: -7271440067761610894
+      pngtree-candy-pixel-icon-png-image_8540756_94: 5986662238361961135
+      pngtree-candy-pixel-icon-png-image_8540756_95: -2610836872048388732
+      pngtree-candy-pixel-icon-png-image_8540756_96: -4071154642996825725
+      pngtree-candy-pixel-icon-png-image_8540756_97: 2223070556768869711
+      pngtree-candy-pixel-icon-png-image_8540756_98: 7338718208627911774
+      pngtree-candy-pixel-icon-png-image_8540756_99: -6204810505933405980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

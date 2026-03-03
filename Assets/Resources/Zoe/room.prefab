@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4243661851364308}
   - component: {fileID: 114252373118954356}
   m_Layer: 0
-  m_Name: zoe_room_soup
+  m_Name: room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,10 +44,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9fda1be0f47f4d2eb0cd4977c7295a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  roomAuthor: AP Thomson
+  roomAuthor: Zoe
   designedRoomFile: {fileID: 4900000, guid: a275190e8a510f847b3ae5f227995926, type: 3}
   localTilePrefabs:
-  - {fileID: 1224687453642000, guid: bba9de82886db444980f5c22f285e992, type: 3}
-  - {fileID: 1312951893184288, guid: 68f68340d004845b1b0a1ace895aa64d, type: 3}
+  - {fileID: 2826458162318131672, guid: 8cb7f512191a17844a99ce5a90309962, type: 3}
+  - {fileID: 757525476074836024, guid: b8e185b7930899741b9bdad0ef46be88, type: 3}
+  - {fileID: 2826458162318131672, guid: 98d915e183c969340b0518545259ae5c, type: 3}
   roomGridX: 0
   roomGridY: 0
