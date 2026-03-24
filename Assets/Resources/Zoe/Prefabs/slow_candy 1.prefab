@@ -11,10 +11,10 @@ GameObject:
   - component: {fileID: 1723448842441596514}
   - component: {fileID: 2404284219574835504}
   - component: {fileID: 7795016678826471031}
+  - component: {fileID: -1590305729457315881}
   - component: {fileID: -6582283604032454048}
-  - component: {fileID: 2539682538547464046}
   m_Layer: 0
-  m_Name: balloon
+  m_Name: slow_candy 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84,13 +84,13 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 2258553173389875980, guid: 3449b279614e3de438100fff0198ffab,
+  m_Sprite: {fileID: -6815688607362375481, guid: 1c0e67fb3b405234693081dcb51821e3,
     type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9666054, g: 1, b: 0.084905505, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.48, y: 2.47}
+  m_Size: {x: 0.1, y: 0.17}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -107,7 +107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df8383d5072aa4580900ddfbd2e7199b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Tile
-  tags: 514
+  tags: 256
   tileName: 
   health: 1
   deathEffect: {fileID: 0}
@@ -116,6 +116,28 @@ MonoBehaviour:
   heldAngle: 0
   tileWereHolding: {fileID: 0}
   aimDirection: {x: 0, y: 0}
+--- !u!114 &-1590305729457315881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2826458162318131672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dda3578ccb9f9af45b14726ea6c9a828, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  tags: 256
+  tileName: 
+  health: 1
+  deathEffect: {fileID: 0}
+  deathSFX: {fileID: 0}
+  heldOffset: {x: 0.2, y: -0.1}
+  heldAngle: 0
+  tileWereHolding: {fileID: 0}
+  aimDirection: {x: 0, y: 0}
+  candyType: sticky
 --- !u!61 &-6582283604032454048
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -154,32 +176,11 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.14, y: 2.36}
-    newSize: {x: 2.48, y: 2.47}
+    oldSize: {x: 1.882, y: 2.004}
+    newSize: {x: 0.1, y: 0.17}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   m_Size: {x: 1.882, y: 2.004}
   m_EdgeRadius: 0
---- !u!114 &2539682538547464046
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2826458162318131672}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 960f9cff4537cf84387306f32dac280b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  tags: 514
-  tileName: 
-  health: 1
-  deathEffect: {fileID: 0}
-  deathSFX: {fileID: 0}
-  heldOffset: {x: 0.2, y: -0.1}
-  heldAngle: 0
-  tileWereHolding: {fileID: 0}
-  aimDirection: {x: 0, y: 0}

@@ -1,0 +1,4537 @@
+fileFormatVersion: 2
+guid: 066ef3ae14fb3bd4aa103805b3f8295c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4499024854681960367
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_0
+  - first:
+      213: -2614976208460638411
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_1
+  - first:
+      213: -8654881687106463704
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_2
+  - first:
+      213: -6917028889263179056
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_3
+  - first:
+      213: 2594138932375082251
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_4
+  - first:
+      213: 5256531986648434666
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_5
+  - first:
+      213: -6435886295601159748
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_6
+  - first:
+      213: 8071825153094570595
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_7
+  - first:
+      213: -4103110204374802325
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_8
+  - first:
+      213: -5355329718203367360
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_9
+  - first:
+      213: -4214772707569777590
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_10
+  - first:
+      213: -2416835009064348248
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_11
+  - first:
+      213: 2435486488122981408
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_12
+  - first:
+      213: -2658638054773951947
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_13
+  - first:
+      213: 3870540737474492673
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_14
+  - first:
+      213: 5942099599369981129
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_15
+  - first:
+      213: -6969386763164599058
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_16
+  - first:
+      213: 1227952510408374949
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_17
+  - first:
+      213: 1183683148906615028
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_18
+  - first:
+      213: -784405013813761430
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_19
+  - first:
+      213: 6656373287317724765
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_20
+  - first:
+      213: -5460267924536037262
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_21
+  - first:
+      213: 6937424486086987837
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_22
+  - first:
+      213: 2393826499873011893
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_23
+  - first:
+      213: -1239562876178072758
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_24
+  - first:
+      213: 2971756166177236668
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_25
+  - first:
+      213: -2226864417611774598
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_26
+  - first:
+      213: 3467145475647227171
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_27
+  - first:
+      213: 650832299962408137
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_28
+  - first:
+      213: -6030101052641977387
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_29
+  - first:
+      213: -9213831767722817900
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_30
+  - first:
+      213: 3133943997043911695
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_31
+  - first:
+      213: 4208333430082479796
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_32
+  - first:
+      213: -2857559514712164449
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_33
+  - first:
+      213: -4483049597199285750
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_34
+  - first:
+      213: -7582477466471484469
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_35
+  - first:
+      213: 1222242439928216440
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_36
+  - first:
+      213: 7061373570565712693
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_37
+  - first:
+      213: -2470531532853118601
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_38
+  - first:
+      213: -2705308529350064273
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_39
+  - first:
+      213: 486186794741634317
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_40
+  - first:
+      213: -3913118123385193482
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_41
+  - first:
+      213: -2275530689162867962
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_42
+  - first:
+      213: -4969907850063793164
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_43
+  - first:
+      213: 3200568319568607166
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_44
+  - first:
+      213: 6891166109995730354
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_45
+  - first:
+      213: -5967080494851577359
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_46
+  - first:
+      213: -3677692985409627048
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_47
+  - first:
+      213: 8879334663686942328
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_48
+  - first:
+      213: -1118881402825358302
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_49
+  - first:
+      213: -7665578013261028381
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_50
+  - first:
+      213: 3102585993066331201
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_51
+  - first:
+      213: -3613834371163886620
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_52
+  - first:
+      213: -8607125211279142155
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_53
+  - first:
+      213: 5433901992725208599
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_54
+  - first:
+      213: 1811037107149054067
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_55
+  - first:
+      213: 8902851055364900775
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_56
+  - first:
+      213: 4164284013117045107
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_57
+  - first:
+      213: 5412086289353552370
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_58
+  - first:
+      213: 4074868194681276166
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_59
+  - first:
+      213: 7286259775306259993
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_60
+  - first:
+      213: -7101218735973079417
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_61
+  - first:
+      213: 7518548900882506526
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_62
+  - first:
+      213: -393406595979954676
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_63
+  - first:
+      213: -35865746302732003
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_64
+  - first:
+      213: 3978199615094378585
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_65
+  - first:
+      213: -400147653407842086
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_66
+  - first:
+      213: 5280055290478398681
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_67
+  - first:
+      213: -7793568761978638730
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_68
+  - first:
+      213: 761365356304440956
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_69
+  - first:
+      213: 4764984216597834679
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_70
+  - first:
+      213: -8722094270780444984
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_71
+  - first:
+      213: 1705408600790947647
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_72
+  - first:
+      213: -8806367101582679960
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_73
+  - first:
+      213: 6159586488965329813
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_74
+  - first:
+      213: 5636805874810504491
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_75
+  - first:
+      213: 2005618891535021237
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_76
+  - first:
+      213: 2618665825271466812
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_77
+  - first:
+      213: -8220048080699376831
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_78
+  - first:
+      213: 6665634920586237996
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_79
+  - first:
+      213: 3014199851282704723
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_80
+  - first:
+      213: -4768111346855403050
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_81
+  - first:
+      213: -7584681750689239924
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_82
+  - first:
+      213: 5517927232959675355
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_83
+  - first:
+      213: -5749443438312630126
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_84
+  - first:
+      213: -834431065304602684
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_85
+  - first:
+      213: 5401550919259943981
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_86
+  - first:
+      213: 1308970400243538005
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_87
+  - first:
+      213: 8203985448914865229
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_88
+  - first:
+      213: 2079202955236877213
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_89
+  - first:
+      213: -5469219768056331145
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_90
+  - first:
+      213: 3557089657354630856
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_91
+  - first:
+      213: 8640906147972521690
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_92
+  - first:
+      213: -5976050394716262382
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_93
+  - first:
+      213: 7803052556721392889
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_94
+  - first:
+      213: -1949177854036350162
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_95
+  - first:
+      213: -3389153626182259693
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_96
+  - first:
+      213: 5376819544497421092
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_97
+  - first:
+      213: -6691907696045646895
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_98
+  - first:
+      213: -9144544652777730361
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_99
+  - first:
+      213: 5886071245887484519
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_100
+  - first:
+      213: 3992083643431109053
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_101
+  - first:
+      213: 7891535460903268963
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_102
+  - first:
+      213: 3528288664507392407
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_103
+  - first:
+      213: -6754106327268952102
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_104
+  - first:
+      213: 226605014482112884
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_105
+  - first:
+      213: -3912094729757261471
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_106
+  - first:
+      213: 882263723842057661
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_107
+  - first:
+      213: 7257468518587616118
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_108
+  - first:
+      213: 3607072361797431467
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_109
+  - first:
+      213: -9009319342917365002
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_110
+  - first:
+      213: -8997655162200678401
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_111
+  - first:
+      213: -3358019491862118131
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_112
+  - first:
+      213: -7585963021999425966
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_113
+  - first:
+      213: 1594980759817332628
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_114
+  - first:
+      213: 3596116895902181921
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_115
+  - first:
+      213: 6546376537821069590
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_116
+  - first:
+      213: -3564141026226560181
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_117
+  - first:
+      213: 1075725821806576904
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_118
+  - first:
+      213: 8373142210510319682
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_119
+  - first:
+      213: 5743194963954753889
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_120
+  - first:
+      213: -7461701268738226041
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_121
+  - first:
+      213: 5733452127385914203
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_122
+  - first:
+      213: -3384415615373135734
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_123
+  - first:
+      213: -8048750180234573271
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_124
+  - first:
+      213: 6723563192989614143
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_125
+  - first:
+      213: -7109963787270483393
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_126
+  - first:
+      213: 3803181545680018000
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_127
+  - first:
+      213: -1856276954709287913
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_128
+  - first:
+      213: -79245365238903543
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_129
+  - first:
+      213: -1780077801890980515
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_130
+  - first:
+      213: -2653991759643809550
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_131
+  - first:
+      213: -483603190718174582
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_132
+  - first:
+      213: 2975409078986697932
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_133
+  - first:
+      213: 7751805616798705430
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_134
+  - first:
+      213: -344190242538182829
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_135
+  - first:
+      213: 5023153310142117781
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_136
+  - first:
+      213: 2225668075356980851
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_137
+  - first:
+      213: -5338184012572967238
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_138
+  - first:
+      213: -7649523189699393896
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_139
+  - first:
+      213: 1343820488412939985
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_140
+  - first:
+      213: 4750039753174040520
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_141
+  - first:
+      213: 631417302585147072
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_142
+  - first:
+      213: 5825643877616925769
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_143
+  - first:
+      213: -6764230428703798909
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_144
+  - first:
+      213: 296746771712457101
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_145
+  - first:
+      213: -6807041401988759007
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_146
+  - first:
+      213: 6288410103053857872
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_147
+  - first:
+      213: 7478683992109260096
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_148
+  - first:
+      213: 4181056649939761813
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_149
+  - first:
+      213: 7209613521316368354
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_150
+  - first:
+      213: 6871571145819870197
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_151
+  - first:
+      213: 5886601107976209472
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_152
+  - first:
+      213: 1464973943263799017
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_153
+  - first:
+      213: -8171356383173004807
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_154
+  - first:
+      213: -6708857765470036856
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_155
+  - first:
+      213: 3457194354560259698
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_156
+  - first:
+      213: 3651663793331222030
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_157
+  - first:
+      213: 3302825596128476773
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_158
+  - first:
+      213: 4672652069213598024
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_159
+  - first:
+      213: 2706632479923049889
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_160
+  - first:
+      213: 5805624338632840710
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_161
+  - first:
+      213: -5140303332812228622
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_162
+  - first:
+      213: 1465347322002461870
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_163
+  - first:
+      213: -517755121125875234
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_164
+  - first:
+      213: 2542912797231375819
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_165
+  - first:
+      213: 4046523418076028662
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_166
+  - first:
+      213: 378788620714378516
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_167
+  - first:
+      213: -6671695206275886361
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_168
+  - first:
+      213: 687572653317389763
+    second: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_169
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafb8fab44fbf6e30800000000000000
+      internalID: 4499024854681960367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5371b9e3efcb5bbd0800000000000000
+      internalID: -2614976208460638411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2391
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8285cfa06fea3e780800000000000000
+      internalID: -8654881687106463704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da7a5a8fd6c100a0800000000000000
+      internalID: -6917028889263179056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b055a3a5d9b300420800000000000000
+      internalID: 2594138932375082251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_5
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2391
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae788a6ddf3f2f840800000000000000
+      internalID: 5256531986648434666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb163ef43832fa6a0800000000000000
+      internalID: -6435886295601159748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362d34bd532e40070800000000000000
+      internalID: 8071825153094570595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_8
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2391
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60a5f12203de07c0800000000000000
+      internalID: -4103110204374802325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040456bbefb0ea5b0800000000000000
+      internalID: -5355329718203367360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44ca44ad8e1285c0800000000000000
+      internalID: -4214772707569777590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_11
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 2391
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5ddfb3d5da57ed0800000000000000
+      internalID: -2416835009064348248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_12
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c75d3ae069cc120800000000000000
+      internalID: 2435486488122981408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532fcd676ce9a1bd0800000000000000
+      internalID: -2658638054773951947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10978d13b4ce6b530800000000000000
+      internalID: 3870540737474492673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc40706a14967250800000000000000
+      internalID: 5942099599369981129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecb34f0aa3c74f90800000000000000
+      internalID: -6969386763164599058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_17
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aab0ff5d409a0110800000000000000
+      internalID: 1227952510408374949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_18
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0d1317d894d6010800000000000000
+      internalID: 1183683148906615028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_19
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a689fbbcb3d15f0800000000000000
+      internalID: -784405013813761430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_20
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ed8f2ec30306c50800000000000000
+      internalID: 6656373287317724765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270f19b904b3934b0800000000000000
+      internalID: -5460267924536037262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30df4560dea64060800000000000000
+      internalID: 6937424486086987837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8f8d2c484983120800000000000000
+      internalID: 2393826499873011893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bf4a0b1203ccee0800000000000000
+      internalID: -1239562876178072758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_25
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb62214fc7ccd3920800000000000000
+      internalID: 2971756166177236668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_26
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a750b415c969811e0800000000000000
+      internalID: -2226864417611774598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_27
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3254e8cb076cd1030800000000000000
+      internalID: 3467145475647227171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_28
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc1c9f4788380900800000000000000
+      internalID: 650832299962408137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbd09d9a07c05ca0800000000000000
+      internalID: -6030101052641977387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4960ca003d4e12080800000000000000
+      internalID: -9213831767722817900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_31
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 443
+        width: 1198
+        height: 1725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c25c106710e7b20800000000000000
+      internalID: 3133943997043911695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_32
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6a77c35f0076a30800000000000000
+      internalID: 4208333430082479796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_33
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f973b09e2c8e758d0800000000000000
+      internalID: -2857559514712164449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_34
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a028a70c42209c1c0800000000000000
+      internalID: -4483049597199285750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_35
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3309dfae0a5c690800000000000000
+      internalID: -7582477466471484469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2085
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bf35df50746f010800000000000000
+      internalID: 1222242439928216440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2110
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ba6e389d90ff160800000000000000
+      internalID: 7061373570565712693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_38
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2085
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77973e909a8e6bdd0800000000000000
+      internalID: -2470531532853118601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_39
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 2110
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f674144d930d47ad0800000000000000
+      internalID: -2705308529350064273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_40
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2027
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d059f0b50584fb600800000000000000
+      internalID: 486186794741634317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb7b73accfc1b9c0800000000000000
+      internalID: -3913118123385193482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_42
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2027
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b82fcf4e0bb60e0800000000000000
+      internalID: -2275530689162867962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_43
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3b58e5427570bb0800000000000000
+      internalID: -4969907850063793164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb77147ede3ba6c20800000000000000
+      internalID: 3200568319568607166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5818ae01752af50800000000000000
+      internalID: 6891166109995730354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_46
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9a536a7eba03da0800000000000000
+      internalID: -5967080494851577359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_47
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1999
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c96bb07b536fcc0800000000000000
+      internalID: -3677692985409627048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_48
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e6fd6f4dbb93b70800000000000000
+      internalID: 8879334663686942328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224cdceca4fe870f0800000000000000
+      internalID: -1118881402825358302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_50
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3288139656e9590800000000000000
+      internalID: -7665578013261028381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_51
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1790
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c32d1c5899e0b20800000000000000
+      internalID: 3102585993066331201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_52
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebedad49c419ddc0800000000000000
+      internalID: -3613834371163886620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_53
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d56c09395d8880800000000000000
+      internalID: -8607125211279142155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_54
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1790
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e5ca48219196b40800000000000000
+      internalID: 5433901992725208599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_55
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370aba657a8122910800000000000000
+      internalID: 1811037107149054067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_56
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1707
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78c339dd74d8b70800000000000000
+      internalID: 8902851055364900775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_57
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1744
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379fda12f328ac930800000000000000
+      internalID: 4164284013117045107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_58
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1707
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f13ea24ec79b1b40800000000000000
+      internalID: 5412086289353552370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_59
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1744
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607c3829807dc8830800000000000000
+      internalID: 4074868194681276166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_60
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1646
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ed85059aefd1560800000000000000
+      internalID: 7286259775306259993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_61
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1677
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786e9f9fe27637d90800000000000000
+      internalID: -7101218735973079417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_62
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1646
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13618fe360475860800000000000000
+      internalID: 7518548900882506526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_63
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1677
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06b15a09c65a8af0800000000000000
+      internalID: -393406595979954676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_64
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1560
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1975043b44908ff0800000000000000
+      internalID: -35865746302732003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1313
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950db47f877653730800000000000000
+      internalID: 3978199615094378585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_66
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1560
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad06bec44d3627af0800000000000000
+      internalID: -400147653407842086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_67
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1313
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc036fcf46864940800000000000000
+      internalID: 5280055290478398681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_68
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1484
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eaea9c08ea7d390800000000000000
+      internalID: -7793568761978638730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_69
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1509
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e90d6f1c9e09a00800000000000000
+      internalID: 761365356304440956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_70
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1484
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb28a626ef902240800000000000000
+      internalID: 4764984216597834679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_71
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1509
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce69ace875e4f680800000000000000
+      internalID: -8722094270780444984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_72
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1427
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f375a073614daa710800000000000000
+      internalID: 1705408600790947647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1465
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8606a7c77cf79c580800000000000000
+      internalID: -8806367101582679960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_74
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1427
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593f21ed64f3b7550800000000000000
+      internalID: 6159586488965329813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_75
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1465
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254aebf315f93e40800000000000000
+      internalID: 5636805874810504491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_76
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1367
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4f1c071c365db10800000000000000
+      internalID: 2005618891535021237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1397
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bc2cc91be575420800000000000000
+      internalID: 2618665825271466812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_78
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1367
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b384182d58ced80800000000000000
+      internalID: -8220048080699376831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_79
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1397
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c285bfbe4a7118c50800000000000000
+      internalID: 6665634920586237996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_80
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359adb97bc694d920800000000000000
+      internalID: 3014199851282704723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_81
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1044
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1ac291ef344ddb0800000000000000
+      internalID: -4768111346855403050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_82
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1163
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ca7c3122ccdb690800000000000000
+      internalID: -7584681750689239924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_83
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1189
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf309459d939c40800000000000000
+      internalID: 5517927232959675355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_84
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1044
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298dc2b97afd530b0800000000000000
+      internalID: -5749443438312630126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_85
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1163
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7e7fafd518b64f0800000000000000
+      internalID: -834431065304602684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_86
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1189
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d247ca241f926fa40800000000000000
+      internalID: 5401550919259943981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_87
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5585400d4a56a2210800000000000000
+      internalID: 1308970400243538005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_88
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1106
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c4b099c496ad170800000000000000
+      internalID: 8203985448914865229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_89
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1143
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9326da5210dadc10800000000000000
+      internalID: 2079202955236877213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_90
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1106
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774457e199d6914b0800000000000000
+      internalID: -5469219768056331145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_91
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1143
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6b6d472325d5130800000000000000
+      internalID: 3557089657354630856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_92
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1045
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade146f2c5aaae770800000000000000
+      internalID: 8640906147972521690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_93
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1076
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210ba1714ddc01da0800000000000000
+      internalID: -5976050394716262382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_94
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1045
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc051f35f20a4c60800000000000000
+      internalID: 7803052556721392889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_95
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1076
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bea16a11123f4e0800000000000000
+      internalID: -1949177854036350162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_96
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 960
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ced26cbbe47f0d0800000000000000
+      internalID: -3389153626182259693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_97
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 712
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b752b53ec4e9a40800000000000000
+      internalID: 5376819544497421092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_98
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 960
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db1f7bd7619123a0800000000000000
+      internalID: -6691907696045646895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_99
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 712
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce4c72961d081180800000000000000
+      internalID: -9144544652777730361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_100
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 883
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762b3c5cc968fa150800000000000000
+      internalID: 5886071245887484519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_101
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 908
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1cb583ceab66730800000000000000
+      internalID: 3992083643431109053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_102
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 883
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362b987c0bd548d60800000000000000
+      internalID: 7891535460903268963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_103
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 908
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7912001c8dff6f030800000000000000
+      internalID: 3528288664507392407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_104
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 825
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad77ae384189442a0800000000000000
+      internalID: -6754106327268952102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_105
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 864
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47157806f00152300800000000000000
+      internalID: 226605014482112884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_106
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 825
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1610429029275b9c0800000000000000
+      internalID: -3912094729757261471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_107
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 864
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5b1d1be2e6e3c00800000000000000
+      internalID: 882263723842057661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_108
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 766
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bcefa7a25b7b460800000000000000
+      internalID: 7257468518587616118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_109
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 797
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0b014b335ee0230800000000000000
+      internalID: 3607072361797431467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_110
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 766
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2da518ac778f280800000000000000
+      internalID: -9009319342917365002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_111
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 797
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff91953d48e12380800000000000000
+      internalID: -8997655162200678401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_112
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0188be401be561d0800000000000000
+      internalID: -3358019491862118131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_113
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256b97ad2de39b690800000000000000
+      internalID: -7585963021999425966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_114
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ae7cec82822610800000000000000
+      internalID: 1594980759817332628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_115
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 588
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aa7078349f7e130800000000000000
+      internalID: 3596116895902181921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_116
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611c6c6e6c669da50800000000000000
+      internalID: 6546376537821069590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_117
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43ae5ace90a98ec0800000000000000
+      internalID: -3564141026226560181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_118
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 588
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8050f7c7feebdee00800000000000000
+      internalID: 1075725821806576904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_119
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240fb474a70633470800000000000000
+      internalID: 8373142210510319682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_120
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 505
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161e556146de3bf40800000000000000
+      internalID: 5743194963954753889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_121
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788c6c8da36b27890800000000000000
+      internalID: -7461701268738226041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_122
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 505
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b8b8d2550519f40800000000000000
+      internalID: 5733452127385914203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_123
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a803661ede32801d0800000000000000
+      internalID: -3384415615373135734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_124
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 444
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac14dea581d4090800000000000000
+      internalID: -8048750180234573271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_125
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 475
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30890fd915ee4d50800000000000000
+      internalID: 6723563192989614143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_126
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 444
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f321add0b95545d90800000000000000
+      internalID: -7109963787270483393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_127
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 475
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a1496377d97c430800000000000000
+      internalID: 3803181545680018000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_128
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 358
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c1fc5d1fd2d36e0800000000000000
+      internalID: -1856276954709287913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_129
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dc6da92c676eef0800000000000000
+      internalID: -79245365238903543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_130
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 358
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ddab1aba4eb47e0800000000000000
+      internalID: -1780077801890980515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_131
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8ed995e802b2bd0800000000000000
+      internalID: -2653991759643809550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_132
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 358
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a6ff4d575e949f0800000000000000
+      internalID: -483603190718174582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_133
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc697efac6ca4920800000000000000
+      internalID: 2975409078986697932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_134
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 358
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6172a2d3322f39b60800000000000000
+      internalID: 7751805616798705430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_135
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3572b5a4cc0393bf0800000000000000
+      internalID: -344190242538182829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_136
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597395f5253d5b540800000000000000
+      internalID: 5023153310142117781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_137
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 307
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376849b825923ee10800000000000000
+      internalID: 2225668075356980851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_138
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe3be86ce5fae5b0800000000000000
+      internalID: -5338184012572967238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_139
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 307
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896cad8103f67d590800000000000000
+      internalID: -7649523189699393896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_140
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6ceb54d9536a210800000000000000
+      internalID: 1343820488412939985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_141
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 307
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf3cec1df78be140800000000000000
+      internalID: 4750039753174040520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_142
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce7f99f0be33c800800000000000000
+      internalID: 631417302585147072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_143
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 307
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c3949bd38d8d050800000000000000
+      internalID: 5825643877616925769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_144
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389c8367340a022a0800000000000000
+      internalID: -6764230428703798909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_145
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d893a2cdd914e1400800000000000000
+      internalID: 296746771712457101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_146
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122451ff8e78881a0800000000000000
+      internalID: -6807041401988759007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054b08adbabe44750800000000000000
+      internalID: 6288410103053857872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_148
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d9211977f99c760800000000000000
+      internalID: 7478683992109260096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_149
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ab175fed8160a30800000000000000
+      internalID: 4181056649939761813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_150
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef4ae9ac41bd0460800000000000000
+      internalID: 7209613521316368354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_151
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3da6bcc89bc5f50800000000000000
+      internalID: 6871571145819870197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_152
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044c757e48861b150800000000000000
+      internalID: 5886601107976209472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_153
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 195
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e621752a02a45410800000000000000
+      internalID: 1464973943263799017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_154
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f13ad7c9a2899e80800000000000000
+      internalID: -8171356383173004807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_155
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 195
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c9988486955e2a0800000000000000
+      internalID: -6708857765470036856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_156
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276dc0fc2fb6aff20800000000000000
+      internalID: 3457194354560259698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_157
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 195
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06b9a86fd05da230800000000000000
+      internalID: 3651663793331222030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_158
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e3e4c616ef5dd20800000000000000
+      internalID: 3302825596128476773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_159
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 195
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8417878dc4898d040800000000000000
+      internalID: 4672652069213598024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_160
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5195f66e3ef8520800000000000000
+      internalID: 2706632479923049889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_161
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60692939398b19050800000000000000
+      internalID: 5805624338632840710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_162
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f778f17a59f9a8b0800000000000000
+      internalID: -5140303332812228622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_163
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4d68820a5f55410800000000000000
+      internalID: 1465347322002461870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_164
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 0
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed127a4e57090d8f0800000000000000
+      internalID: -517755121125875234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_165
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc565c557bd3a4320800000000000000
+      internalID: 2542912797231375819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_166
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 0
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe98bdfb93282830800000000000000
+      internalID: 4046523418076028662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_167
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41504ae5e3ab14500800000000000000
+      internalID: 378788620714378516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_168
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 0
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2df3cde806963a0800000000000000
+      internalID: -6671695206275886361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-empty-jar-in-pixel-art-style-png-image_15095213_169
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd714e6fafba8900800000000000000
+      internalID: 687572653317389763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_0: 4499024854681960367
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_1: -2614976208460638411
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_10: -4214772707569777590
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_100: 5886071245887484519
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_101: 3992083643431109053
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_102: 7891535460903268963
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_103: 3528288664507392407
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_104: -6754106327268952102
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_105: 226605014482112884
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_106: -3912094729757261471
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_107: 882263723842057661
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_108: 7257468518587616118
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_109: 3607072361797431467
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_11: -2416835009064348248
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_110: -9009319342917365002
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_111: -8997655162200678401
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_112: -3358019491862118131
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_113: -7585963021999425966
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_114: 1594980759817332628
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_115: 3596116895902181921
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_116: 6546376537821069590
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_117: -3564141026226560181
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_118: 1075725821806576904
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_119: 8373142210510319682
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_12: 2435486488122981408
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_120: 5743194963954753889
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_121: -7461701268738226041
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_122: 5733452127385914203
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_123: -3384415615373135734
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_124: -8048750180234573271
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_125: 6723563192989614143
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_126: -7109963787270483393
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_127: 3803181545680018000
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_128: -1856276954709287913
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_129: -79245365238903543
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_13: -2658638054773951947
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_130: -1780077801890980515
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_131: -2653991759643809550
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_132: -483603190718174582
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_133: 2975409078986697932
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_134: 7751805616798705430
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_135: -344190242538182829
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_136: 5023153310142117781
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_137: 2225668075356980851
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_138: -5338184012572967238
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_139: -7649523189699393896
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_14: 3870540737474492673
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_140: 1343820488412939985
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_141: 4750039753174040520
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_142: 631417302585147072
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_143: 5825643877616925769
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_144: -6764230428703798909
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_145: 296746771712457101
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_146: -6807041401988759007
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_147: 6288410103053857872
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_148: 7478683992109260096
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_149: 4181056649939761813
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_15: 5942099599369981129
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_150: 7209613521316368354
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_151: 6871571145819870197
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_152: 5886601107976209472
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_153: 1464973943263799017
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_154: -8171356383173004807
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_155: -6708857765470036856
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_156: 3457194354560259698
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_157: 3651663793331222030
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_158: 3302825596128476773
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_159: 4672652069213598024
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_16: -6969386763164599058
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_160: 2706632479923049889
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_161: 5805624338632840710
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_162: -5140303332812228622
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_163: 1465347322002461870
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_164: -517755121125875234
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_165: 2542912797231375819
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_166: 4046523418076028662
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_167: 378788620714378516
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_168: -6671695206275886361
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_169: 687572653317389763
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_17: 1227952510408374949
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_18: 1183683148906615028
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_19: -784405013813761430
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_2: -8654881687106463704
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_20: 6656373287317724765
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_21: -5460267924536037262
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_22: 6937424486086987837
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_23: 2393826499873011893
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_24: -1239562876178072758
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_25: 2971756166177236668
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_26: -2226864417611774598
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_27: 3467145475647227171
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_28: 650832299962408137
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_29: -6030101052641977387
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_3: -6917028889263179056
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_30: -9213831767722817900
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_31: 3133943997043911695
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_32: 4208333430082479796
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_33: -2857559514712164449
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_34: -4483049597199285750
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_35: -7582477466471484469
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_36: 1222242439928216440
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_37: 7061373570565712693
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_38: -2470531532853118601
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_39: -2705308529350064273
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_4: 2594138932375082251
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_40: 486186794741634317
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_41: -3913118123385193482
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_42: -2275530689162867962
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_43: -4969907850063793164
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_44: 3200568319568607166
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_45: 6891166109995730354
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_46: -5967080494851577359
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_47: -3677692985409627048
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_48: 8879334663686942328
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_49: -1118881402825358302
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_5: 5256531986648434666
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_50: -7665578013261028381
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_51: 3102585993066331201
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_52: -3613834371163886620
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_53: -8607125211279142155
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_54: 5433901992725208599
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_55: 1811037107149054067
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_56: 8902851055364900775
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_57: 4164284013117045107
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_58: 5412086289353552370
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_59: 4074868194681276166
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_6: -6435886295601159748
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_60: 7286259775306259993
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_61: -7101218735973079417
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_62: 7518548900882506526
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_63: -393406595979954676
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_64: -35865746302732003
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_65: 3978199615094378585
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_66: -400147653407842086
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_67: 5280055290478398681
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_68: -7793568761978638730
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_69: 761365356304440956
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_7: 8071825153094570595
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_70: 4764984216597834679
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_71: -8722094270780444984
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_72: 1705408600790947647
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_73: -8806367101582679960
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_74: 6159586488965329813
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_75: 5636805874810504491
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_76: 2005618891535021237
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_77: 2618665825271466812
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_78: -8220048080699376831
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_79: 6665634920586237996
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_8: -4103110204374802325
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_80: 3014199851282704723
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_81: -4768111346855403050
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_82: -7584681750689239924
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_83: 5517927232959675355
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_84: -5749443438312630126
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_85: -834431065304602684
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_86: 5401550919259943981
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_87: 1308970400243538005
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_88: 8203985448914865229
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_89: 2079202955236877213
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_9: -5355329718203367360
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_90: -5469219768056331145
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_91: 3557089657354630856
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_92: 8640906147972521690
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_93: -5976050394716262382
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_94: 7803052556721392889
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_95: -1949177854036350162
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_96: -3389153626182259693
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_97: 5376819544497421092
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_98: -6691907696045646895
+      pngtree-empty-jar-in-pixel-art-style-png-image_15095213_99: -9144544652777730361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
