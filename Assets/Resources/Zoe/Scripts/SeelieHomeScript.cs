@@ -7,6 +7,8 @@ public class SeelieHomeScript : Tile
     public bool playerIsClose = false; // Set to true when the player is close enough to trigger the seelie following
     private Tile playerTile;
 
+    public Sprite glowRadiusSprite; // Assign a sprite with a circular gradient in the inspector
+
     // Healing mode state
     private bool healingMode = false;
     private float healingRadius = 3.5f;
@@ -16,6 +18,12 @@ public class SeelieHomeScript : Tile
     private Color healingColor = Color.green;
     private Color originalColor;
     private SpriteRenderer spriteRenderer;
+
+    // Glow effect
+    private GameObject glowObj;
+    private SpriteRenderer glowRenderer;
+    private float glowFlickerTimer = 0f;
+    private float glowFlickerSpeed = 4f; // Flicker speed
 
     public override void init()
     {
@@ -35,7 +43,7 @@ public class SeelieHomeScript : Tile
     }
 
     void Update() {
-        // Only set color and heal if healingMode is active
+        // Only set color, heal, and glow if healingMode is active
         if (healingMode)
         {
             Debug.Log($"[SeelieHomeScript] Healing mode active");
@@ -46,6 +54,16 @@ public class SeelieHomeScript : Tile
                     Debug.Log("[SeelieHomeScript] Changing sprite color to green");
                 }
                 spriteRenderer.color = Color.green;
+            }
+
+            // Flicker the glow opacity
+            if (glowRenderer != null)
+            {
+                glowFlickerTimer += Time.deltaTime * glowFlickerSpeed;
+                float alpha = Mathf.Lerp(0.3f, 0.6f, (Mathf.Sin(glowFlickerTimer) + 1f) / 2f);
+                Color c = glowRenderer.color;
+                c.a = alpha;
+                glowRenderer.color = c;
             }
 
             if (Player.instance != null)
@@ -75,7 +93,6 @@ public class SeelieHomeScript : Tile
                 }
             }
         }
-
         // Remove auto-StartHealingMode from Update; healingMode should only be set by OnSeelieArrived
     }
 
@@ -89,12 +106,24 @@ public class SeelieHomeScript : Tile
             Debug.Log("[SeelieHomeScript] Setting sprite color to healingColor");
             spriteRenderer.color = healingColor;
         }
+
+        if (glowObj == null && glowRadiusSprite != null)
+        {
+            glowObj = new GameObject("GlowRadius");
+            glowObj.transform.SetParent(transform, false);
+            glowObj.transform.localPosition = Vector3.zero;
+            glowRenderer = glowObj.AddComponent<SpriteRenderer>();
+            glowRenderer.sprite = glowRadiusSprite;
+            glowRenderer.color = new Color(0f, 1f, 0f, 0.4f); 
+            glowRenderer.sortingOrder = (spriteRenderer != null ? spriteRenderer.sortingOrder : 0) - 1;
+            glowObj.transform.localScale = new Vector3(1.5f, 2.5f, 1f); // Uniform scale for perfect circle
+        }
     }
 
     // Called by the Seelie when it reaches this home
     public void OnSeelieArrived()
     {
-        Debug.Log("[SeelieHomeScript] OnSeelieArrived called");
+       // Debug.Log("[SeelieHomeScript] OnSeelieArrived called");
         seelieIsHome = true;
         StartHealingMode();
         // Additional logic (rewards, animations) can be placed here.

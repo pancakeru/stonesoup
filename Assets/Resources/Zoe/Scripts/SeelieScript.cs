@@ -4,7 +4,9 @@ public class SeelieScript : Tile
 {
     private Tile playerTile;
     private Tile seelieHomeTile;
-    private Vector3 followOffset = new Vector3(0, 0, 1.5f); 
+    // Offset distance behind player when following
+    private float hoverDistance = 2.0f;
+    private Vector3 lastPlayerMoveDir = Vector3.left; // Default to left if idle
     private float detectionRadius = 10f;
     private float homeDetectionRadius = 3f;
     private float followSpeed = 8f; 
@@ -137,27 +139,51 @@ public class SeelieScript : Tile
             }
             else
             {
-            Vector3 targetPosition = playerTile.transform.position - playerTile.transform.forward * followOffset.z;
-            targetPosition.y = playerTile.transform.position.y + followOffset.y;
-
-            // Use physics-based velocity movement for smoother follow
-            Vector3 direction = (targetPosition - transform.position).normalized;
-            if (body != null)
-            {
-                body.linearVelocity = direction * followSpeed;
-            }
-            else
-            {
-                transform.position = Vector3.MoveTowards(transform.position, targetPosition, followSpeed * Time.deltaTime);
-            }
-
-            // 2D-friendly facing: flip sprite left/right instead of LookAt
-            if (spriteFound && playerTile != null)
-            {
-                float dx = playerTile.transform.position.x - transform.position.x;
-                if (Mathf.Abs(dx) > 0.01f)
+                // Try to get player's movement direction (if Player instance exists)
+                Vector3 moveDir = Vector3.zero;
+                var player = Player.instance;
+                if (player != null)
                 {
-                    // Assume default sprite faces right; flip when player is to the left
+                    // Try to get movement direction from velocity
+                    var playerBody = player.body;
+                    if (playerBody != null && playerBody.linearVelocity.magnitude > 0.05f)
+                    {
+                        moveDir = playerBody.linearVelocity.normalized;
+                    }
+                }
+                // Fallback: use last direction if not moving
+                if (moveDir == Vector3.zero)
+                {
+                    moveDir = lastPlayerMoveDir;
+                }
+                else
+                {
+                    lastPlayerMoveDir = moveDir;
+                }
+
+                // Offset behind player (opposite movement direction)
+                Vector3 offset = -moveDir * hoverDistance;
+                // Only use X and Y for 2D hover (ignore Z)
+                Vector3 targetPosition = playerTile.transform.position + new Vector3(offset.x, offset.y, 0f);
+
+                // Use physics-based velocity movement for smoother follow
+                Vector3 direction = (targetPosition - transform.position).normalized;
+                if (body != null)
+                {
+                    body.linearVelocity = direction * followSpeed;
+                }
+                else
+                {
+                    transform.position = Vector3.MoveTowards(transform.position, targetPosition, followSpeed * Time.deltaTime);
+                }
+
+                // 2D-friendly facing: flip sprite left/right instead of LookAt
+                if (spriteFound && playerTile != null)
+                {
+                    float dx = playerTile.transform.position.x - transform.position.x;
+                    if (Mathf.Abs(dx) > 0.01f)
+                    {
+                        // Assume default sprite faces right; flip when player is to the left
                     spriteRenderer.flipX = dx > 0f;
                 }
             }
@@ -243,7 +269,6 @@ public class SeelieScript : Tile
             isReturningHome = false;
         }
 
-        // No longer needed: handled by proximity in Update
     }
 
     void OnCollisionEnter(Collision collision)

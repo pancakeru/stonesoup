@@ -118,6 +118,8 @@ MonoBehaviour:
   aimDirection: {x: 0, y: 0}
   seelieIsHome: 0
   playerIsClose: 0
+  glowRadiusSprite: {fileID: -6231044458718751821, guid: e072ee257fa18fa4298fc2964e794405,
+    type: 3}
 --- !u!114 &4262022065611984696
 MonoBehaviour:
   m_ObjectHideFlags: 0
